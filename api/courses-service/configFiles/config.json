@@ -1,0 +1,10 @@
+{
+    "port":"3001",
+    "mongoUri":"mongodb://localhost:27017",
+    "jwtSecret":"g3nEr@t3d_S3cr3t_K3y_2025!",
+    "basePath":"api/v2/",
+    "mongo":{
+        "db":"lms"
+    }
+
+}
