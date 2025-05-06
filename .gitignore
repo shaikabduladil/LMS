@@ -1,0 +1,25 @@
+    # Node.js / Next.js
+node_modules/
+.next/
+out/
+dist/
+.env
+.env.local
+npm-debug.log*
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
